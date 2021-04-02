@@ -40,7 +40,7 @@ pkg upgrade -y
 pkg install git 
 ```
 ```
-git clone https://github.com/OnlineHacKing/PUBG-Phishing.git
+git clone https://github.com/legend-and-criminal-boyz/PUBG-Phishing.git
 ```
 ```
 cd PUBG-Phishing
