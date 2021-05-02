@@ -67,11 +67,6 @@ $ rm -rf PUBG-Phishing && git clone https://github.com/legend-and-criminal-boyz/
 
 ### 📸 SCREENSHOTS [Termux]
 
-<p align="center">
-
-![unnamed (2)](https://1.bp.blogspot.com/-1duV0a_FaK0/YD3fmEdRx_I/AAAAAAAAFRI/bxRkb0NxhzIuWgIlyBy960yMRBUuifNrgCPcBGAYYCw/s1627/Screenshot_20210302-105125202%257E2.jpg)
-![unnamed (2)](https://1.bp.blogspot.com/-xUFqrnUJzUQ/YEX4em2GlDI/AAAAAAAAFRo/QFZF5cW28MsxAN6Iiu3SaANbsHeqC_bCQCLcBGAsYHQ/s1229/PicsArt_03-08-03.36.41.jpg)
-
 </p>
 
 ## 👨🏻‍💻 CONNECT WITH US :
